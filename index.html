@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="static/form.css">
+    <link rel="stylesheet" href="static/panel-pop.css">
+    <script src="static/jquery-1.11.3.js"></script>
+    <script src="static/position.js"></script>
+    <script src="static/hot.js"></script>
+    <script src="static/cSelect.js"></script>
+    <title>Document</title>
+    <script>
+        $.ajax({
+            type: "GET",
+            url: "position.json",
+            success: function (data) {
+                var left_content = $('#work_position_click_center_left');
+                var ele_array = []
+                var currentWord = "";
+                for(var i = 0; i < data.length;i++){
+                    if(data[i]['mark'] == currentWord ){
+                        ele_array.push("<li data-id='"+data[i]['id']+"'><span>"+data[i]['name']+"</span></li>")
+                    }else{
+                        currentWord = data[i]['mark'];
+                        ele_array.push("<li data-id='"+data[i]['id']+"'><b>"+currentWord+"</b><span>"+data[i]['name']+"</span></li>")
+                        
+                    }
+                }
+                left_content.append(ele_array.join(""))
+                //console.log(data)
+            },
+            error : function(msg){
+                console.log(msg)
+            }
+        })
+</script>
+<script>
+    $(function(){
+        $('.address-select').cSelect({"text":"34344343434"})
+        $('.address-select1').cSelect({})
+    })
+</script>
+</head>
+
+<body>
+    <!-- <div class="layer-wrapper">
+        <div class="layer-content"></div>
+        <div class="layer-mask"></div>
+    </div> -->
+
+    <div class="address-select"><span class="address-text">地区</span><input type="hidden" class="address-code"></div>
+
+    <div class="address-select1"><span class="address-text">地区</span><input type="hidden" class="address-code"></div>
+
+</body>
+
+</html>

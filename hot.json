@@ -1,0 +1,256 @@
+{
+  "id": "0",
+  "name": "热门城市",
+  "l2": [
+    {
+      "id": "34,398",
+      "name": "北京",
+      "en": "beijing"
+    },
+    {
+      "id": "36,400",
+      "name": "上海",
+      "en": "shanghai"
+    },
+    {
+      "id": "37,401",
+      "name": "重庆",
+      "en": "chongqing"
+    },
+    {
+      "id": "25,292",
+      "name": "深圳",
+      "en": "shenzhen"
+    },
+    {
+      "id": "27,312",
+      "name": "成都",
+      "en": "chengdu"
+    },
+    {
+      "id": "25,291",
+      "name": "广州",
+      "en": "guangzhou"
+    },
+    {
+      "id": "35,399",
+      "name": "天津",
+      "en": "tianjin"
+    },
+    {
+      "id": "16,173",
+      "name": "苏州",
+      "en": "suzhou"
+    },
+    {
+      "id": "22,247",
+      "name": "郑州",
+      "en": "zhengzhou"
+    },
+    {
+      "id": "23,264",
+      "name": "武汉",
+      "en": "wuhan"
+    },
+    {
+      "id": "17,182",
+      "name": "杭州",
+      "en": "hangzhou"
+    },
+    {
+      "id": "11,111",
+      "name": "石家庄",
+      "en": "shijiazhuang"
+    },
+    {
+      "id": "16,169",
+      "name": "南京",
+      "en": "nanjing"
+    },
+    {
+      "id": "13,133",
+      "name": "沈阳",
+      "en": "shenyang"
+    },
+    {
+      "id": "21,230",
+      "name": "济南",
+      "en": "jinan"
+    },
+    {
+      "id": "24,277",
+      "name": "长沙",
+      "en": "changsha"
+    },
+    {
+      "id": "30,358",
+      "name": "西安",
+      "en": "xian"
+    },
+    {
+      "id": "18,193",
+      "name": "合肥",
+      "en": "hefei"
+    },
+    {
+      "id": "21,231",
+      "name": "青岛",
+      "en": "qingdao"
+    },
+    {
+      "id": "25,307",
+      "name": "东莞",
+      "en": "dongguan"
+    },
+    {
+      "id": "15,156",
+      "name": "哈尔滨",
+      "en": "haerbin"
+    },
+    {
+      "id": "13,134",
+      "name": "大连",
+      "en": "dalian"
+    },
+    {
+      "id": "14,147",
+      "name": "长春",
+      "en": "changchun"
+    },
+    {
+      "id": "25,308",
+      "name": "中山",
+      "en": "zhongshan"
+    },
+    {
+      "id": "25,296",
+      "name": "佛山",
+      "en": "foshan"
+    },
+    {
+      "id": "38,402",
+      "name": "南宁",
+      "en": "nanning"
+    },
+    {
+      "id": "16,170",
+      "name": "无锡",
+      "en": "wuxi"
+    },
+    {
+      "id": "28,333",
+      "name": "贵阳",
+      "en": "guiyang"
+    },
+    {
+      "id": "17,183",
+      "name": "宁波",
+      "en": "ningbo"
+    },
+    {
+      "id": "19,210",
+      "name": "福州",
+      "en": "fuzhou"
+    },
+    {
+      "id": "12,122",
+      "name": "太原",
+      "en": "taiyuan"
+    },
+    {
+      "id": "11,116",
+      "name": "保定",
+      "en": "baoding"
+    },
+    {
+      "id": "20,219",
+      "name": "南昌",
+      "en": "nanchang"
+    },
+    {
+      "id": "19,211",
+      "name": "厦门",
+      "en": "xiamen"
+    },
+    {
+      "id": "16,172",
+      "name": "常州",
+      "en": "changzhou"
+    },
+    {
+      "id": "25,293",
+      "name": "珠海",
+      "en": "zhuhai"
+    },
+    {
+      "id": "21,235",
+      "name": "烟台",
+      "en": "yantai"
+    },
+    {
+      "id": "29,342",
+      "name": "昆明",
+      "en": "kunming"
+    },
+    {
+      "id": "26,309",
+      "name": "海口",
+      "en": "haikou"
+    },
+    {
+      "id": "11,120",
+      "name": "廊坊",
+      "en": "langfang"
+    },
+    {
+      "id": "25,301",
+      "name": "惠州",
+      "en": "huizhou"
+    },
+    {
+      "id": "11,112",
+      "name": "唐山",
+      "en": "tangshan"
+    },
+    {
+      "id": "21,236",
+      "name": "潍坊",
+      "en": "weifang"
+    },
+    {
+      "id": "42,440",
+      "name": "乌鲁木齐",
+      "en": "wulumuqi"
+    },
+    {
+      "id": "39,416",
+      "name": "呼和浩特",
+      "en": "huhehaote"
+    },
+    {
+      "id": "41,435",
+      "name": "银川",
+      "en": "yinchuan"
+    },
+    {
+      "id": "16,171",
+      "name": "徐州",
+      "en": "xuzhou"
+    },
+    {
+      "id": "22,249",
+      "name": "洛阳",
+      "en": "luoyang"
+    },
+    {
+      "id": "31,368",
+      "name": "兰州",
+      "en": "lanzhou"
+    },
+    {
+      "id": "32,382",
+      "name": "西宁",
+      "en": "xining"
+    }
+  ]
+}
